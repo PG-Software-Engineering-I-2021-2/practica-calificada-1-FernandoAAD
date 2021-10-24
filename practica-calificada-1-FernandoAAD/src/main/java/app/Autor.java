@@ -1,11 +1,11 @@
 package app;
 
-public class Autores {
+public class Autor {
 
     private final String nombre;
     private final String fecNac;
 
-    public Autores(String nombre, String fecNac){
+    public Autor(String nombre, String fecNac){
         this.nombre = nombre;
         this.fecNac = fecNac;
     }

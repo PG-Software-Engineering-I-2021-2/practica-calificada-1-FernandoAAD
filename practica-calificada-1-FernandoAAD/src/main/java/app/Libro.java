@@ -1,16 +1,16 @@
 package app;
 
 
-public class Libros {
+public class Libro {
 
     private final String nombre;
     private final Integer anho;
-    private final String author;
+    private final String autor;
 
-    public Libros(String nombre, Integer anho, String author) {
+    public Libro(String nombre, Integer anho, String autor) {
         this.nombre = nombre;
         this.anho = anho;
-        this.author = author;
+        this.autor = autor;
     }
 
     // Metodos
@@ -23,6 +23,6 @@ public class Libros {
     }
 
     public String getAuthor() {
-        return author;
+        return autor;
     }
 }

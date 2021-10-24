@@ -1,1 +1,6 @@
+app\Estudiante.class
 app\App.class
+app\ChatBot.class
+app\Libro.class
+app\Autor.class
+app\Ofertas.class
