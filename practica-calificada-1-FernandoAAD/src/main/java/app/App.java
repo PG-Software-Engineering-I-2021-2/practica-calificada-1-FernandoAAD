@@ -6,6 +6,6 @@ public class App {
     private static Logger logger = Logger.getLogger(App.class.getName());
 
     public static void main(String[] args) {
-        logger.info("Se inicio la aplicacion");
+        logger.info("Aplicacion en ejecucion");
     }
 }
